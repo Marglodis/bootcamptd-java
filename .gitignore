@@ -1,0 +1,60 @@
+# Archivos de compilación
+
+/target/
+
+*.class
+
+
+# Archivos de configuración de Eclipse
+
+.project
+
+.classpath
+
+.settings/
+
+
+# Archivos temporales de IDEs
+
+.idea/
+
+*.iml
+
+
+# Archivos de logs
+
+*.log
+
+
+# Archivos de dependencias locales
+
+*.jar
+
+*.war
+
+*.ear
+
+
+# Archivos de Maven
+
+.mvn/
+
+mvn-debug.log
+
+
+# Archivos de Gradle
+
+.gradle/
+
+build/
+
+
+# Archivos específicos de sistema operativo
+
+Thumbs.db
+
+.DS_Store
+
+.metadata
+
+Servers/
